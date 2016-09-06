@@ -1,5 +1,7 @@
 # CSC 191 Project
 
+NEW ENDPOINT: http://tams-142602.appspot.com
+
 This can be our central repository for everything in this class. The idea is to utilize git for managing:
 
 - Papers

@@ -1,6 +1,6 @@
 # CSC 191 Project
 
-NEW ENDPOINT: http://tams-142602.appspot.com
+VIEW BACKEND API SPEC: https://github.com/ScribblesProject/Backend/blob/master/docs/api.md
 
 This can be our central repository for everything in this class. The idea is to utilize git for managing:
 

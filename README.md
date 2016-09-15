@@ -17,7 +17,7 @@ This can be our central repository for everything in this class. The idea is to 
 | Name | Due Date | URL |
 |:----:|:--------:|:---:|
 | SRS | Unknown | [Link](https://drive.google.com/open?id=1rx6rZwMBG-OaQlI6pdnq8Kubuxy1nZ9vTUcumctS1sU) |
-| Stories | 9/22/16 | [Link](https://drive.google.com/open?id=1lJVjbcoNXtzHIKngp-oz3PTH3iyTjgodoG196D7_BTE)
+| Stories(Backlog?) | 9/22/16 | [Link](https://drive.google.com/open?id=1lJVjbcoNXtzHIKngp-oz3PTH3iyTjgodoG196D7_BTE)
 
 All papers, past and current, are visible on at this [LINK](https://drive.google.com/drive/u/0/folders/0B01T4L-ATMLhVTl6b2pIdW1yTjA). (access required)
 
